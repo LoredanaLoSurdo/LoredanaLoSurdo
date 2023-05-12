@@ -1,6 +1,6 @@
 <H2> Welcome to my Github profile! </H2>
 
-Here you’ll find a collection of my projects along with various contributions. These projects showcase my skills in C, Shell, HTML, CSS, Javascript, algorithms, data structures and building libraries. 
+Here you’ll find a collection of my projects along with various contributions. These projects showcase my skills in C, C++, Shell, HTML, CSS, Javascript, algorithms, data structures and building libraries. 
 <br>
 <br>
 <h4>My highlighted 42 projects: </h4>  
